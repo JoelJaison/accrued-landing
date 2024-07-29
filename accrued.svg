@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logosandtypes_com" data-name="logosandtypes com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="90.53" cy="16.08" fx="90.53" fy="16.08" r="119.28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b9fc5"/>
+      <stop offset=".1" stop-color="#0b8dbf"/>
+      <stop offset=".29" stop-color="#0e5fb1"/>
+      <stop offset=".51" stop-color="#11239f"/>
+      <stop offset="1" stop-color="#0a0a62"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-2" d="M0,0H150V150H0V0Z"/>
+  <path class="cls-1" d="M130.42,135.9c-5.8,2.27-12.36-.44-14.87-6.15L75.66,38.92l-39.39,90.39c-2.54,5.83-9.26,8.58-15.16,6.19h0c-6.17-2.49-9.04-9.61-6.31-15.69L57.73,24.13c6.94-15.48,28.92-15.48,35.87,0l43.19,96.2c2.72,6.06-.18,13.16-6.37,15.58Zm-31.56-4.93l-16.8-36.84c-2.46-5.4-10.13-5.42-12.62-.04l-17.09,36.85c-1.25,2.69,.72,5.76,3.68,5.76h39.14c2.95,0,4.91-3.05,3.69-5.73Z"/>
+</svg>
