@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a86a79e4.css",
-    "main.js": "/static/js/main.d38e5c4e.js",
+    "main.js": "/static/js/main.1ab10683.js",
     "static/js/453.ff0e41af.chunk.js": "/static/js/453.ff0e41af.chunk.js",
     "static/media/kleiner-perkins-logo.webp": "/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp",
     "static/media/Square_Inc._logo.svg.webp": "/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp",
@@ -10,11 +10,11 @@
     "static/media/accrued.svg": "/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg",
     "index.html": "/index.html",
     "main.a86a79e4.css.map": "/static/css/main.a86a79e4.css.map",
-    "main.d38e5c4e.js.map": "/static/js/main.d38e5c4e.js.map",
+    "main.1ab10683.js.map": "/static/js/main.1ab10683.js.map",
     "453.ff0e41af.chunk.js.map": "/static/js/453.ff0e41af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a86a79e4.css",
-    "static/js/main.d38e5c4e.js"
+    "static/js/main.1ab10683.js"
   ]
 }
