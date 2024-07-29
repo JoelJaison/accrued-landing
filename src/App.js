@@ -104,25 +104,25 @@ export default function App() {
                 <a href="https://www.nasa.gov/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp"
+                    src={kp}
                   />
                 </a>
                 <a href="https://www.gatech.edu/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/8VC-logo-black-1.ef3a2a36be4ae22a759e.webp"
+                    src={eight}
                   />
                 </a>
                 <a href="https://atlantatechvillage.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp"
+                    src={square}
                   />
                 </a>
                 <a href="https://cloudflare.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/Logo-Primary.f40db652b36c0a898b7c.webp"
+                    src={cherry}
                   />
                 </a>
               </div>
