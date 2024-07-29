@@ -18,7 +18,7 @@ export default function Home() {
                 <a
                   class="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800"
                   target="_blank"
-                  href="google.com"
+                  href="https://calendly.com/aidan_/"
                 >
                   <span class="relative top-px">Join the Waitlist</span>
                 </a>
