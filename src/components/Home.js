@@ -101,25 +101,25 @@ export default function Home() {
           <div class="container mt-6 bg-white">
             <div class="max-w-4xl mx-auto bg-white">
               <div class="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-5 justify-items-center items-center">
-                <a href="https://www.nasa.gov/">
+                <a href="https://www.kleinerperkins.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
                     src={kp}
                   />
                 </a>
-                <a href="https://www.gatech.edu/">
+                <a href="https://www.8vc.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
                     src={eight}
                   />
                 </a>
-                <a href="https://atlantatechvillage.com/">
+                <a href="https://squareup.com/us/en">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
                     src={square}
                   />
                 </a>
-                <a href="https://cloudflare.com/">
+                <a href="https://withcherry.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
                     src={cherry}
@@ -133,7 +133,7 @@ export default function Home() {
               <div class="mb-20 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
                 <a
                   aria-label="Home"
-                  href="/web/20240515101212/https://www.miruml.com/"
+                  href="/"
                 >
                   <img src={logo} style={{ width: "17%" }} />
                 </a>
