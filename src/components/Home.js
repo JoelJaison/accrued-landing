@@ -12,7 +12,10 @@ export default function Home() {
           <div class="mx-auto max-w-2xl lg:max-w-none">
             <div class="flex items-center justify-between">
               <a aria-label="Home" href="/">
-                <img src={logo} style={{ width: "17%" }} />
+                <img
+                  src="/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg"
+                  style={{ width: "17%" }}
+                />
               </a>
               <div class="flex items-center gap-x-8">
                 <a
@@ -27,10 +30,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div
-        className="border-top-left-radius:40px;border-top-right-radius:40px"
-        class="relative flex flex-auto overflow-hidden bg-white pt-14"
-      >
+      <div class="relative flex flex-auto overflow-hidden bg-white pt-14">
         <div class="relative isolate flex w-full flex-col pt-9">
           <svg
             aria-hidden="true"
@@ -96,46 +96,45 @@ export default function Home() {
                   time.
                 </p>
               </div>
-            </div>
-          </main>
-          <div class="container mt-6 bg-white">
-            <div class="max-w-4xl mx-auto bg-white">
-              <div class="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-5 justify-items-center items-center">
+
+              <br />
+              <br />
+              <div class="flex justify-between items-center">
                 <a href="https://www.kleinerperkins.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src={kp}
+                    src="/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp"
                   />
                 </a>
                 <a href="https://www.8vc.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src={eight}
+                    src="/static/media/8VC-logo-black-1.ef3a2a36be4ae22a759e.webp"
                   />
                 </a>
                 <a href="https://squareup.com/us/en">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src={square}
+                    src="/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp"
                   />
                 </a>
                 <a href="https://withcherry.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src={cherry}
+                    src="/static/media/Logo-Primary.f40db652b36c0a898b7c.webp"
                   />
                 </a>
               </div>
             </div>
-          </div>
+          </main>
           <footer class="mx-auto max-w-7xl px-6 lg:px-8 mt-24 w-full sm:mt-32 lg:mt-40">
             <div class="mx-auto max-w-2xl lg:max-w-none">
               <div class="mb-20 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
-                <a
-                  aria-label="Home"
-                  href="/"
-                >
-                  <img src={logo} style={{ width: "17%" }} />
+                <a aria-label="Home" href="/">
+                  <img
+                    src="/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg"
+                    style={{ width: "17%" }}
+                  />
                 </a>
                 <p class="text-sm text-neutral-700">© Accrued, Inc. 2024</p>
               </div>
