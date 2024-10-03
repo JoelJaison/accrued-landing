@@ -86,14 +86,10 @@ export default function Home() {
             <div class="mx-auto max-w-7xl px-6 lg:px-8 mt-24 sm:mt-32 md:mt-56">
               <div class="mx-auto max-w-2xl lg:max-w-none">
                 <h1 class="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-                  AI for personalized collections
+                  AI for underwriting and personalized collections
                 </h1>
                 <p class="mt-6 text-xl text-neutral-600">
-                  We're ML researchers from top schools like Berkeley and
-                  Georgia Tech looking into speeding up unpaid invoice payments.
-                  Accrued helps controllers, accounts receivable managers, and
-                  finance executives keep relationships while getting paid on
-                  time.
+               We're ML researchers from top schools like Berkeley and Georgia Tech looking into financing unpaid invoices and speeding up payments. Accrued helps factors get more customers, keep relationships, and be paid on time.
                 </p>
               </div>
 
