@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/accrued-landing/static/css/main.b8eef93a.css",
-    "main.js": "/accrued-landing/static/js/main.329eaaab.js",
+    "main.js": "/accrued-landing/static/js/main.f178b126.js",
     "static/js/453.ff0e41af.chunk.js": "/accrued-landing/static/js/453.ff0e41af.chunk.js",
     "static/media/kleiner-perkins-logo.webp": "/accrued-landing/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp",
     "static/media/Square_Inc._logo.svg.webp": "/accrued-landing/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp",
@@ -10,11 +10,11 @@
     "index.html": "/accrued-landing/index.html",
     "static/media/accrued.svg": "/accrued-landing/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg",
     "main.b8eef93a.css.map": "/accrued-landing/static/css/main.b8eef93a.css.map",
-    "main.329eaaab.js.map": "/accrued-landing/static/js/main.329eaaab.js.map",
+    "main.f178b126.js.map": "/accrued-landing/static/js/main.f178b126.js.map",
     "453.ff0e41af.chunk.js.map": "/accrued-landing/static/js/453.ff0e41af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8eef93a.css",
-    "static/js/main.329eaaab.js"
+    "static/js/main.f178b126.js"
   ]
 }
