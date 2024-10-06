@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8eef93a.css",
-    "main.js": "/static/js/main.e71ef749.js",
-    "static/js/453.ff0e41af.chunk.js": "/static/js/453.ff0e41af.chunk.js",
-    "static/media/kleiner-perkins-logo.webp": "/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp",
-    "static/media/Square_Inc._logo.svg.webp": "/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp",
-    "static/media/Logo-Primary.webp": "/static/media/Logo-Primary.f40db652b36c0a898b7c.webp",
-    "static/media/8VC-logo-black-1.webp": "/static/media/8VC-logo-black-1.ef3a2a36be4ae22a759e.webp",
-    "index.html": "/index.html",
-    "static/media/accrued.svg": "/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg",
-    "main.b8eef93a.css.map": "/static/css/main.b8eef93a.css.map",
-    "main.e71ef749.js.map": "/static/js/main.e71ef749.js.map",
-    "453.ff0e41af.chunk.js.map": "/static/js/453.ff0e41af.chunk.js.map"
+    "main.css": "/accrued-landing/static/css/main.b8eef93a.css",
+    "main.js": "/accrued-landing/static/js/main.3f8d49e9.js",
+    "static/js/453.ff0e41af.chunk.js": "/accrued-landing/static/js/453.ff0e41af.chunk.js",
+    "static/media/kleiner-perkins-logo.webp": "/accrued-landing/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp",
+    "static/media/Square_Inc._logo.svg.webp": "/accrued-landing/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp",
+    "static/media/Logo-Primary.webp": "/accrued-landing/static/media/Logo-Primary.f40db652b36c0a898b7c.webp",
+    "static/media/8VC-logo-black-1.webp": "/accrued-landing/static/media/8VC-logo-black-1.ef3a2a36be4ae22a759e.webp",
+    "index.html": "/accrued-landing/index.html",
+    "static/media/accrued.svg": "/accrued-landing/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg",
+    "main.b8eef93a.css.map": "/accrued-landing/static/css/main.b8eef93a.css.map",
+    "main.3f8d49e9.js.map": "/accrued-landing/static/js/main.3f8d49e9.js.map",
+    "453.ff0e41af.chunk.js.map": "/accrued-landing/static/js/453.ff0e41af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8eef93a.css",
-    "static/js/main.e71ef749.js"
+    "static/js/main.3f8d49e9.js"
   ]
 }
