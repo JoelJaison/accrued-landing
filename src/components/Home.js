@@ -13,7 +13,7 @@ export default function Home() {
             <div class="flex items-center justify-between">
               <a aria-label="Home" href="/">
                 <img
-                  src="/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg"
+                  src={logo}
                   style={{ width: "17%" }}
                 />
               </a>
@@ -99,25 +99,25 @@ export default function Home() {
                 <a href="https://www.kleinerperkins.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/kleiner-perkins-logo.569d5c7d9a5110bb195a.webp"
+                    src={kp}
                   />
                 </a>
                 <a href="https://www.8vc.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/8VC-logo-black-1.ef3a2a36be4ae22a759e.webp"
+                    src={eight}
                   />
                 </a>
                 <a href="https://squareup.com/us/en">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/Square_Inc._logo.svg.5733b9f4ac0270130414.webp"
+                    src={square}
                   />
                 </a>
                 <a href="https://withcherry.com/">
                   <img
                     class="lazyload flex-shrink-0 object-contain h-16"
-                    src="/static/media/Logo-Primary.f40db652b36c0a898b7c.webp"
+                    src={cherry}
                   />
                 </a>
               </div>
@@ -128,7 +128,7 @@ export default function Home() {
               <div class="mb-20 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
                 <a aria-label="Home" href="/">
                   <img
-                    src="/static/media/accrued.b18a47d4525ec793b229405f4b07c93f.svg"
+                    src={logo}
                     style={{ width: "17%" }}
                   />
                 </a>
